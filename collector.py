@@ -5,7 +5,7 @@ import time
 import pytz
 from influxdb import InfluxDBClient
 
-ATAG_ONE_IP = "192.168.46.10"
+ATAG_ONE_IP = "192.168.18.139"
 #from https://github.com/kozmoz/atag-one-api/blob/6f76619814f971ae4fc61eb69889caea8b5a363e/src/main/java/org/juurlink/atagone/AtagOneLocalConnector.java#L51
 MESSAGE_INFO_CONTROL = 1
 MESSAGE_INFO_SCHEDULES = 2
